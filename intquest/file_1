@@ -1,6 +1,0 @@
-Python allows you to open files in one of the three modes. They are:
-read-only mode, write-only mode, read-write mode, and append mode by specifying the flags “r”, “w”, “rw”, “a” respectively.
-A text file can be opened in any one of the above said modes by specifying the option “t” along with
-“r”, “w”, “rw”, and “a”, so that the preceding modes become “rt”, “wt”, “rwt”, and “at”.A binary file can be opened
-in any one of the above said modes by specifying the option “b” along with “r”, “w”, “rw”, and “a” so that the
-preceding modes become “rb”, “wb”, “rwb”, “ab”.
